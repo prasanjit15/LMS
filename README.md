@@ -18,7 +18,7 @@ The front end is built on **[Edmin Responsive Bootstrap Admin Template](http://e
 
 ## Setup
 
-### Prerequisite: Install MySQL (for Linux)
+### Prerequisite: Install MySQL (Linux)
 
 > If you don't already have the MySQL Database Server installed, you will need to install it to use this project. If it is installed, you can skip to step 4.
 
