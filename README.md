@@ -34,17 +34,6 @@ The front end is built on **[Edmin Responsive Bootstrap Admin Template](http://e
 
 *NOTE:* PHP 5.6, the PHP mcrypt extension, and MySQL are required for this project:
 
-* `apt-get update`
-
-* `apt-get install php5.6 php5.6-mcrypt`
-
-* `git clone https://github.com/prabhakar267/library-management-system`
-
-* `cd library-management-system`
-
-* `[sudo] chmod -R 755 app/storage`
-
-* `composer install`
 
  * Edit [mysql.config.php.sample](app/config/mysql.config.php.sample) according to your MySQL configurations and save it in the same directory as ```mysql.config.php```
 
